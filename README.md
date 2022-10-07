@@ -1,2 +1,2 @@
 # test
-practice
+practice for git command demonstration
